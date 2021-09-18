@@ -1,2 +1,2 @@
 # OpenAL-php-ffi
-OpenAL binding for PHP using FFI
+OpenAL binding for PHP8 using FFI
