@@ -1,6 +1,6 @@
 <?php
 
-include("lib/openal.php");
+include("include/openal.php");
 
 use OpenAL as AL;
 use OpenALC as ALC;
